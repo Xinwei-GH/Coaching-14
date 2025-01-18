@@ -20,3 +20,5 @@ Group activity to familiarize with git
 - Yunfeng
 - jason-leong-ihpc
 
+
+- Linus more testing
