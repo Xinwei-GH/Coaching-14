@@ -17,3 +17,4 @@ Group activity to familiarize with git
 # Code Contributors
 - xinwei
 - Linus
+- Yunfeng
