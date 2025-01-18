@@ -15,5 +15,5 @@ Group activity to familiarize with git
 11. `git branch -d <branch name>`
 
 # Code Contributors
-- <alias of developer>
+- xinwei
 
