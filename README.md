@@ -18,4 +18,5 @@ Group activity to familiarize with git
 - xinwei
 - Linus
 - Yunfeng
+- jason-leong-ihpc
 - xinwei test again
