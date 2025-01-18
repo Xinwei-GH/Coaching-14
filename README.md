@@ -15,5 +15,8 @@ Group activity to familiarize with git
 11. `git branch -d <branch name>`
 
 # Code Contributors
+- xinwei
+- Linus
+- Yunfeng
 - jason-leong-ihpc
 
